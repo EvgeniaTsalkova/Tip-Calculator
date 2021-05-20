@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.calculator.tip.ExampleUnitTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-05-20T08:53:13" hostname="DESKTOP-D4LN8VP" time="27.075">
+  <properties/>
+  <testcase name="testShouldCheckSliderListenerLast" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="20.653"/>
+  <testcase name="testShouldCheckEditTextListenerFirst" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="1.025"/>
+  <testcase name="testShouldCheckTextViewExist" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="0.777"/>
+  <testcase name="testShouldCheckSliderExist" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="0.946"/>
+  <testcase name="testShouldCheckSliderListenerFirst" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="0.595"/>
+  <testcase name="testShouldCheckEditTextExist" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="1.03"/>
+  <testcase name="testShouldCheckEditTextListenerLast" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="1.035"/>
+  <testcase name="testShouldCheckLongJustForFun" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="1.012"/>
+  <system-out><![CDATA[[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckSliderListenerLast: sdk=29; resources=BINARY
+Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+Cleaner.create(android.view.ThreadedRenderer@136bce9d,android.graphics.HardwareRenderer$DestroyContextRunnable@357a2197)
+[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckEditTextListenerFirst: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@42abbad3,android.graphics.HardwareRenderer$DestroyContextRunnable@19e1a9b3)
+[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckTextViewExist: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@17c69813,android.graphics.HardwareRenderer$DestroyContextRunnable@318c00a)
+[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckSliderExist: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@569a3cee,android.graphics.HardwareRenderer$DestroyContextRunnable@73911ef8)
+[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckSliderListenerFirst: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@49d13a95,android.graphics.HardwareRenderer$DestroyContextRunnable@2e03cbc5)
+[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckEditTextExist: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@3d57fe1b,android.graphics.HardwareRenderer$DestroyContextRunnable@45eb3fa9)
+[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckEditTextListenerLast: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@1e11be57,android.graphics.HardwareRenderer$DestroyContextRunnable@67eca09b)
+[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckLongJustForFun: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@60b83bb5,android.graphics.HardwareRenderer$DestroyContextRunnable@313ac10f)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

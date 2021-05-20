@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\5c5e7fe5f52656d364294ef83fcc21ad\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\7db48edf8daac87888ebedcfc38440a6\material-1.3.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\ed7b0beb8bb17c3d5111ec19b4b7e806\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\a38fdb844e3b62c5e02794dd59c90993\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\1ed12150163a899bd431abd0949dbca8\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\1cbe896ad082149b035d60c3467de41c\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\bdd2a5ed953e5bb63ea87e100099a401\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\9d6d429b62bc337aed0e6cabb7a034cd\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\d12d3b8d73bdd5283b5ad3a106a71d3b\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\a77e98f66291d2413eafa773d2e88446\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\9aea5292f5530b24a4df0f2afb622ff0\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\46477b2f88e15684ea9e168965059bf2\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\d9e3f0092c0ab7ae784fcec6e6e9ffc3\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\009eea9e30d9c34da9b02801cf8034de\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\22d9d62c0bd910cbd9201c7845e1ff33\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\4082a1847dcba222e6165cbf0e9f85a7\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\30ebe99c0e429e2ced9be0e4a24f8fb7\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\03fc6bce7b3d3c93b7f33a140b212e21\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\b2f814792c63dc5e0ffb574571cdcc09\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\491afab6be97cb311d39b872728360c5\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\5d1a41902f51f1c35e31157bd991653e\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\7b83c1da9fc103b661b21fc0c4d6ac3d\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\248daf95498b5dfc193ceeb03b6a3387\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\62bf2926f7e92cd9c4db749b752b0418\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\2e4ba4d209b013518b01f149e45a8473\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\cbf9bcc786d7ba7d6a31675012340a4f\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\6071c035b61593caf6c995a56531c052\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\b18a83ea4a4e1690b0a5ab535f927a79\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\6307019473e18bc8f52ecb8aefc52f71\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\5e472556d5bfcc48612532aae25bb9b4\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\e69bdf2c1a5253befeef3af20b977d27\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\03430fee990c0ccab6aeb6431ed1472b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\c914a9fb59a1391d031da35462452f50\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\39c840a1866010a3bc85ae08a9e9d33e\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:6:3-22:17
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\7db48edf8daac87888ebedcfc38440a6\material-1.3.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\7db48edf8daac87888ebedcfc38440a6\material-1.3.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\ed7b0beb8bb17c3d5111ec19b4b7e806\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\ed7b0beb8bb17c3d5111ec19b4b7e806\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\491afab6be97cb311d39b872728360c5\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\491afab6be97cb311d39b872728360c5\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\248daf95498b5dfc193ceeb03b6a3387\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\248daf95498b5dfc193ceeb03b6a3387\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\491afab6be97cb311d39b872728360c5\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:11:7-33
+	android:label
+		ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:9:7-39
+	android:roundIcon
+		ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:8:7-41
+	android:allowBackup
+		ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:7:7-33
+	android:theme
+		ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:12:7-38
+activity#org.hyperskill.calculator.tip.MainActivity
+ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:15:5-21:16
+	android:name
+		ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:15:15-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:16:7-20:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:17:9-61
+	android:name
+		ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:17:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:19:9-69
+	android:name
+		ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:19:19-66
+uses-sdk
+INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\5c5e7fe5f52656d364294ef83fcc21ad\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\5c5e7fe5f52656d364294ef83fcc21ad\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\7db48edf8daac87888ebedcfc38440a6\material-1.3.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\7db48edf8daac87888ebedcfc38440a6\material-1.3.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\ed7b0beb8bb17c3d5111ec19b4b7e806\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\ed7b0beb8bb17c3d5111ec19b4b7e806\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\a38fdb844e3b62c5e02794dd59c90993\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\a38fdb844e3b62c5e02794dd59c90993\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\1ed12150163a899bd431abd0949dbca8\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\1ed12150163a899bd431abd0949dbca8\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\1cbe896ad082149b035d60c3467de41c\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\1cbe896ad082149b035d60c3467de41c\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\bdd2a5ed953e5bb63ea87e100099a401\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\bdd2a5ed953e5bb63ea87e100099a401\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\9d6d429b62bc337aed0e6cabb7a034cd\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\9d6d429b62bc337aed0e6cabb7a034cd\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\d12d3b8d73bdd5283b5ad3a106a71d3b\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\d12d3b8d73bdd5283b5ad3a106a71d3b\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\a77e98f66291d2413eafa773d2e88446\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\a77e98f66291d2413eafa773d2e88446\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\9aea5292f5530b24a4df0f2afb622ff0\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\9aea5292f5530b24a4df0f2afb622ff0\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\46477b2f88e15684ea9e168965059bf2\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\46477b2f88e15684ea9e168965059bf2\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\d9e3f0092c0ab7ae784fcec6e6e9ffc3\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\d9e3f0092c0ab7ae784fcec6e6e9ffc3\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\009eea9e30d9c34da9b02801cf8034de\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\009eea9e30d9c34da9b02801cf8034de\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\22d9d62c0bd910cbd9201c7845e1ff33\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\22d9d62c0bd910cbd9201c7845e1ff33\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\4082a1847dcba222e6165cbf0e9f85a7\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\4082a1847dcba222e6165cbf0e9f85a7\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\30ebe99c0e429e2ced9be0e4a24f8fb7\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\30ebe99c0e429e2ced9be0e4a24f8fb7\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\03fc6bce7b3d3c93b7f33a140b212e21\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\03fc6bce7b3d3c93b7f33a140b212e21\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\b2f814792c63dc5e0ffb574571cdcc09\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\b2f814792c63dc5e0ffb574571cdcc09\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\491afab6be97cb311d39b872728360c5\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\491afab6be97cb311d39b872728360c5\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\5d1a41902f51f1c35e31157bd991653e\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\5d1a41902f51f1c35e31157bd991653e\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\7b83c1da9fc103b661b21fc0c4d6ac3d\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\7b83c1da9fc103b661b21fc0c4d6ac3d\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\248daf95498b5dfc193ceeb03b6a3387\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\248daf95498b5dfc193ceeb03b6a3387\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\62bf2926f7e92cd9c4db749b752b0418\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\62bf2926f7e92cd9c4db749b752b0418\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\2e4ba4d209b013518b01f149e45a8473\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\2e4ba4d209b013518b01f149e45a8473\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\cbf9bcc786d7ba7d6a31675012340a4f\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\cbf9bcc786d7ba7d6a31675012340a4f\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\6071c035b61593caf6c995a56531c052\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\6071c035b61593caf6c995a56531c052\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\b18a83ea4a4e1690b0a5ab535f927a79\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\b18a83ea4a4e1690b0a5ab535f927a79\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\6307019473e18bc8f52ecb8aefc52f71\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\6307019473e18bc8f52ecb8aefc52f71\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\5e472556d5bfcc48612532aae25bb9b4\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\5e472556d5bfcc48612532aae25bb9b4\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\e69bdf2c1a5253befeef3af20b977d27\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\e69bdf2c1a5253befeef3af20b977d27\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\03430fee990c0ccab6aeb6431ed1472b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\03430fee990c0ccab6aeb6431ed1472b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\c914a9fb59a1391d031da35462452f50\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\c914a9fb59a1391d031da35462452f50\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\39c840a1866010a3bc85ae08a9e9d33e\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Max\.gradle\caches\transforms-2\files-2.1\39c840a1866010a3bc85ae08a9e9d33e\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Max\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
